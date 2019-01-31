@@ -2,3 +2,15 @@ header {
  font-weight: bold;
     border: blue;
 }
+
+.nobullet{
+    list-style-type: none;
+}
+
+#emli {
+	font-style: italic;
+}
+
+#emstr {
+	font-weight: bold;
+}

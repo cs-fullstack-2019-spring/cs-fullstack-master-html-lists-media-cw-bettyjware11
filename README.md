@@ -1,3 +1,6 @@
+### 1 POINTS
+### KEY: Definitely on right track with ex1 so gave you a point. Please see comments
+
 # HTML Lists/Media Graded Class Work
 
 ### Exercise 1:
